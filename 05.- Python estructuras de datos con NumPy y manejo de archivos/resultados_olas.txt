@@ -1,0 +1,43 @@
+Altura promedio por punto:
+Punto 0: Altura promedio = 1.6196530151532966
+Punto 1: Altura promedio = 1.9437538392374427
+Punto 2: Altura promedio = 1.5393688120906073
+Punto 3: Altura promedio = 1.6106813584031996
+Punto 4: Altura promedio = 1.3624781842288545
+Punto 5: Altura promedio = 1.719649556761226
+Punto 6: Altura promedio = 1.2857138463637827
+Punto 7: Altura promedio = 1.3094611364599735
+Punto 8: Altura promedio = 1.2265173163251966
+Punto 9: Altura promedio = 1.2301795156352555
+
+Altura máxima por punto:
+Punto 0: Altura máxima = 1.930378732744839
+Punto 1: Altura máxima = 2.4273255210020586
+Punto 2: Altura máxima = 2.457236684465528
+Punto 3: Altura máxima = 2.389337834099168
+Punto 4: Altura máxima = 2.048467378868433
+Punto 5: Altura máxima = 2.3874961570292483
+Punto 6: Altura máxima = 1.8952623918545297
+Punto 7: Altura máxima = 2.4767476761184524
+Punto 8: Altura máxima = 1.8126591789305468
+Punto 9: Altura máxima = 2.175889814997608
+
+Desviación estándar por punto:
+Punto 0: Desviación estándar = 0.19598628839899848
+Punto 1: Desviación estándar = 0.4203063658039136
+Punto 2: Desviación estándar = 0.8056734471128603
+Punto 3: Desviación estándar = 0.6040140958384346
+Punto 4: Desviación estándar = 0.44302268731033634
+Punto 5: Desviación estándar = 0.345849455622873
+Punto 6: Desviación estándar = 0.5152926048706639
+Punto 7: Desviación estándar = 0.5657256207462292
+Punto 8: Desviación estándar = 0.42252390554520414
+Punto 9: Desviación estándar = 0.612026516149403
+
+Punto con altura promedio más alta:
+Índice: 1
+Altura promedio: 1.9437538392374427
+
+Día con altura máxima en todo el parque acuático:
+Índice: (np.int64(7), np.int64(3))
+Altura máxima: 2.175889814997608
